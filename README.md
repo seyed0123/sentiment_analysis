@@ -10,21 +10,10 @@ If you want to see the outputs you can see [code+output](sentiment.md)
 
 ## 🌟 1. Exploratory Data Analysis (EDA) 🔍📊 
 
-* **Dataset**: 4,924 Persian sentences, each labeled with one of five emotions: `SAD`, `HAPPY`, `ANGRY`, `OTHER`.
+**Dataset**: 4,924 Persian sentences, each labeled with one of five emotions: `SAD`, `HAPPY`, `ANGRY`, `OTHER`.
+
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
